@@ -1,1 +1,1 @@
-print("Hello Lucy")
+print("Hello Lucy core")
